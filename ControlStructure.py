@@ -9,7 +9,8 @@ elif persen >= 70:
 elif persen >= 60:
     print("cukup")   
 else:
-    print("kurang")    
+    print("kurang") 
+       
 
 
 
